@@ -4,7 +4,7 @@ elainelt/elainelt is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-## **Hello! My name is Elaine and my pronouns are she/her/hers.**
+## **Hello!! My name is Elaine and my pronouns are she/her/hers.**
 Currently, I am a first year student at UC Irvine studying Computer Science.  
 I hope to write code that will benefit others and make an impact in their lives!
 
